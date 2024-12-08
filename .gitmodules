@@ -1,0 +1,4 @@
+[submodule "EDK2/edk2-edk2-stable201911"]
+	path = EDK2/edk2-edk2-stable201911
+	url = https://github.com/haha998-w/edk2.git
+	branch = edk2-stable201911
